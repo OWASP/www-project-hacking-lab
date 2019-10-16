@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP hacking-lab
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
